@@ -1,0 +1,10 @@
+*.axf
+*.lst
+*.map
+*.o
+*.uvguix.*
+*.dep
+*.plg
+Objects/
+Listings/
+RTE/
